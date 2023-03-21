@@ -9,11 +9,11 @@ body>h1 {
 }
 
 #title {
-    background-color: #e3efef;
+    background-color: #F7C04A;
 }
 
 #titulo {
-    color: grey;
+    color: #2F58CD;
     font-family: 'Ubuntu', sans-serif;
     font-size: 2.5rem;
 }
@@ -30,7 +30,13 @@ nav {
 }
 
 .container-fluid {
-    padding: 3%, 15%, 3%, 15%;
+    --bs-gutter-x: 0;
+    --bs-gutter-y: 0;
+    width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .nav-item {
@@ -40,6 +46,8 @@ nav {
 
 .row {
     display: flex;
+    --bs-gutter-x: 0;
+    --bs-gutter-y: 0;
     align-items: center;
     text-align: center;
 }
@@ -49,12 +57,50 @@ nav {
 }
 
 #logo {
-    background-color: #e3efef;
+    background-color: #F7C04A;
     width: 40%;
 }
 
 #Eslogan {
     font-size: 3.5rem;
-    color: grey;
+    color: #2F58CD;
+
+}
+#Descripcion {
+    font-size: 2rem ;
+    color: #2F58CD;
+}
+
+#featured-3 {
+    background-color: #FFF2CC;
+    
+}
+.container {
+    max-width: 100%;
+    --bs-gutter-x: 0;
+    --bs-gutter-y: 0;
+    width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-right: auto;
+    margin-left: auto;
+}
+#Carrusel{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    text-align: center;
+    
+}
+#Carrusel img{
+    width: 300px;
+    text-align: center;
+    margin-top: 4%;
+    margin-bottom: 8%;
+}
+#testimonials img{
+    width: 100px;
+    text-align: center;
+    margin-top: 4%;
+    margin-bottom: 8%;
 
 }
