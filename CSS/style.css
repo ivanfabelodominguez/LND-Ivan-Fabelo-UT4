@@ -80,8 +80,6 @@ nav {
     --bs-gutter-x: 0;
     --bs-gutter-y: 0;
     width: 100%;
-    padding-right: calc(var(--bs-gutter-x) * .5);
-    padding-left: calc(var(--bs-gutter-x) * .5);
     margin-right: auto;
     margin-left: auto;
 }
@@ -103,3 +101,26 @@ nav {
     margin-top: 4%;
     margin-bottom: 8%;
 }
+#Productos {
+    background-color: #F7C04A;
+}
+#Suscripción {
+    text-align: center;
+    color: #2F58CD;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    background-color: #FFF2CC;
+}
+#Tarjetas{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-right: 5%;
+    --bs-gutter-x: 0;
+    --bs-gutter-y: 0;
+    max-width: 100%;
+    width: 100%;
+    background-color: #FFF2CC;
+}
+#Tarjetas .btn{
+    border: 2px solid black;
+    }
