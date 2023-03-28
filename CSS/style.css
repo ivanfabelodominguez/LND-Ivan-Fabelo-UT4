@@ -9,7 +9,7 @@ body>h1 {
 }
 
 #title {
-    background-color: #F7C04A;
+    background-color: #FFC93C;
 }
 
 #titulo {
@@ -29,6 +29,7 @@ nav {
 
 }
 
+
 .container-fluid {
     --bs-gutter-x: 0;
     --bs-gutter-y: 0;
@@ -37,6 +38,7 @@ nav {
     padding-left: calc(var(--bs-gutter-x) * .5);
     margin-right: auto;
     margin-left: auto;
+    color: #2F58CD;
 }
 
 .nav-item {
@@ -57,7 +59,7 @@ nav {
 }
 
 #logo {
-    background-color: #F7C04A;
+    background-color: #FFC93C;
     width: 40%;
 }
 
@@ -82,6 +84,7 @@ nav {
     width: 100%;
     margin-right: auto;
     margin-left: auto;
+    text-align: center;
 }
 #Carrusel{
     padding-top: 3%;
@@ -102,18 +105,19 @@ nav {
     margin-bottom: 8%;
 }
 #Productos {
-    background-color: #F7C04A;
+    background-color: #FFC93C;
+    text-align: center;
 }
 #Suscripción {
     text-align: center;
     color: #2F58CD;
-    padding-bottom: 5%;
+    padding-bottom: 2%;
     padding-top: 5%;
     background-color: #FFF2CC;
 }
 #Tarjetas{
     padding-top: 5%;
-    padding-bottom: 5%;
+    padding-bottom: 3%;
     margin-right: 5%;
     --bs-gutter-x: 0;
     --bs-gutter-y: 0;
@@ -124,3 +128,21 @@ nav {
 #Tarjetas .btn{
     border: 2px solid black;
     }
+#Mapa {
+    background-color: #FFC93C;
+    text-align: center;
+    color: #2F58CD;
+}
+#Simbolomapa {
+    padding-left: 10px;
+}
+#Libros {
+    text-align: center;
+    color: #2F58CD;
+    background-color: #FFF2CC;
+    
+}
+.card {
+    width: 300px;
+    
+}
