@@ -116,13 +116,8 @@ nav {
     background-color: #FFF2CC;
 }
 #Tarjetas{
-    padding-top: 5%;
-    padding-bottom: 3%;
-    margin-right: 5%;
-    --bs-gutter-x: 0;
-    --bs-gutter-y: 0;
-    max-width: 100%;
-    width: 100%;
+    padding-left: 8%;
+    padding-bottom: 4%;
     background-color: #FFF2CC;
 }
 #Tarjetas .btn{
@@ -140,9 +135,36 @@ nav {
     text-align: center;
     color: #2F58CD;
     background-color: #FFF2CC;
-    
+    padding-left: 8%;
 }
 .card {
     width: 300px;
     
+}
+.FondoLibros {
+    align-items: center;
+}
+#Coleccion {
+    text-align: center;
+    color: #2F58CD;
+    background-color: #FFF2CC;
+    padding-left: 8%;
+}
+.ImgBufanda {
+    width: 137px;
+    margin-left: 90px;
+}
+#Banderas {
+    text-align: center;
+    color: #2F58CD;
+    background-color: #FFF2CC;
+    padding-left: 8%;
+}
+#Novedades {
+    background-color: #FFF2CC;
+    text-align: center;
+    color: #2F58CD;
+}
+#Lista {
+    margin-left: 50px;
 }
