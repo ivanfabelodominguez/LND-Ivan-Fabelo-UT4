@@ -168,3 +168,15 @@ nav {
 #Lista {
     margin-left: 50px;
 }
+#Video {
+    text-align: center;
+    color: #2F58CD;
+    background-color: #FFC93C;
+    padding-bottom: 5%;
+}
+#IconOfertas {
+    padding-left: 0.5%;
+}
+#PiePagina {
+    background-color: #FFF2CC;
+}
