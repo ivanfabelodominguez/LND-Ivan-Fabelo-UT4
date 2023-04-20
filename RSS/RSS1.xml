@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Fichajes</title>
+        <image>
+            <url>
+                https://www.google.com/url?sa=i&url=http%3A%2F%2Fherldicafutbolstica.blogspot.com%2F2007%2F12%2Funin-deportiva-las-palmas.html&psig=AOvVaw1vlMQ2XtPF9Tip_Q-BTLJu&ust=1682067130388000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCODn28GKuP4CFQAAAAAdAAAAABAJ</url>
+            <title>UDLP</title>
+            <link>
+                https://www.google.com/url?sa=i&url=http%3A%2F%2Fherldicafutbolstica.blogspot.com%2F2007%2F12%2Funin-deportiva-las-palmas.html&psig=AOvVaw1vlMQ2XtPF9Tip_Q-BTLJu&ust=1682067130388000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCODn28GKuP4CFQAAAAAdAAAAABAJ</link>
+        </image>
+        <link>https://ivanfabelodominguez.github.io/LND-Ivan-Fabelo-UT4/</link>
+        <description>Tenemos toda la actulidad de nuestro equipo</description>
+        <category>Deportes, futbol</category>
+        <item>
+            <title>Vallejo</title>
+            <link>https://ivanfabelodominguez.github.io/LND-Ivan-Fabelo-UT4/</link>
+            <description>Nuevo fichaje procedente del Real Madrid.</description>
+            <pubDate>Lunes, 3 Abr 2023 12:00:00 GMT</pubDate>
+            <enclosure
+                url= https://www.google.com/url?sa=i&url=http%3A%2F%2Fherldicafutbolstica.blogspot.com%2F2007%2F12%2Funin-deportiva-las-palmas.html&psig=AOvVaw1vlMQ2XtPF9Tip_Q-BTLJu&ust=1682067130388000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCODn28GKuP4CFQAAAAAdAAAAABAJ
+                type="image/jpeg" length="100" />
+        </item>
+        <item>
+            <title>Chris Ramos</title>
+            <link>https://ivanfabelodominguez.github.io/LND-Ivan-Fabelo-UT4/</link>
+            <description>Nuevo fichaje procedente del Cadiz C.F.</description>
+            <pubDate>Lunes, 3 Abr 2023 12:00:00 GMT</pubDate>
+            <enclosure
+                url= https://www.google.com/url?sa=i&url=http%3A%2F%2Fherldicafutbolstica.blogspot.com%2F2007%2F12%2Funin-deportiva-las-palmas.html&psig=AOvVaw1vlMQ2XtPF9Tip_Q-BTLJu&ust=1682067130388000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCODn28GKuP4CFQAAAAAdAAAAABAJ
+                type="image/jpeg" length="100" />
+        </item>
+        <item>
+            <title>David Silva</title>
+            <link>https://ivanfabelodominguez.github.io/LND-Ivan-Fabelo-UT4/</link>
+            <description>Nuevo fichaje procedente de la Real Sociedad.</description>
+            <pubDate>Lunes, 3 Abr 12:00:00 GMT</pubDate>
+            <enclosure
+                url= https://www.google.com/url?sa=i&url=http%3A%2F%2Fherldicafutbolstica.blogspot.com%2F2007%2F12%2Funin-deportiva-las-palmas.html&psig=AOvVaw1vlMQ2XtPF9Tip_Q-BTLJu&ust=1682067130388000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCODn28GKuP4CFQAAAAAdAAAAABAJ
+                type="image/jpeg" length="100" />
+        </item>
+    </channel>
+</rss>
